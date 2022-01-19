@@ -1,6 +1,3 @@
-def multiply(num1,num2)
-    return num1*num2
-
 def add (num1, num2):
     """ Trying to add to number
 
@@ -12,3 +9,6 @@ def add (num1, num2):
         [type]: [description]
     """
     return num1+num2
+  
+def multiply(num1,num2,num3)
+    return num1*num2*num3
